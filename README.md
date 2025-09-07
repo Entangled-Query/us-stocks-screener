@@ -1,7 +1,6 @@
 US Symbols + Earliest Market Date (Free)
 
-[![Weekly Symbols Refresh](https://github.com/OWNER/REPO/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/weekly-update.yml)
-<!-- Replace OWNER/REPO with your GitHub org/repo slug -->
+[![Weekly Symbols Refresh](https://github.com/Entangled-Query/us-stocks-screener/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/Entangled-Query/us-stocks-screener/actions/workflows/weekly-update.yml)
 
 Overview
 - Produces a unified list of current US stock symbols and a practical earliest market date for backfilling prices using free sources.
