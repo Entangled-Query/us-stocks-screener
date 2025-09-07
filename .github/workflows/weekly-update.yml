@@ -1,0 +1,68 @@
+name: Weekly Symbols Refresh
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-symbols-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ensure output/cache directories
+        run: |
+          mkdir -p data/outputs
+          mkdir -p data/cache/vendor
+
+      - name: Run symbols pipeline
+        env:
+          PYTHONWARNINGS: ignore
+        run: |
+          python -m us_symbols.cli \
+            --output-dir data/outputs \
+            --batch-size 25 \
+            --pause 2.0 \
+            --max-retries 4 \
+            --vendor-cache data/cache/vendor/earliest_yahoo.csv \
+            --universe-cache data/cache/universe_cache.csv
+
+      - name: Configure Git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes if any
+        run: |
+          git add -A data/outputs/*.csv data/cache/vendor/earliest_yahoo.csv data/cache/universe_cache.csv || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): weekly symbols + earliest dates refresh [skip ci]"
+            git push
+          fi
+
