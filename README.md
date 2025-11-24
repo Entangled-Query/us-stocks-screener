@@ -1,4 +1,5 @@
 US Symbols + Earliest Market Date Screener
+
 [![Weekly Symbols Refresh](https://github.com/Entangled-Query/us-stocks-screener/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/Entangled-Query/us-stocks-screener/actions/workflows/weekly-update.yml)
 
 Overview
