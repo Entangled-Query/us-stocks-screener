@@ -134,6 +134,7 @@ AERT,"Aeries Technology, Inc. Class A Ordinary Share",NASDAQ,1853044.0,True,2021
 AES,The AES Corporation Common Stock,NYSE,874761.0,True,1991-06-01
 AESI,Atlas Energy Solutions Inc. Common Stock,NYSE,1984060.0,True,2023-03-01
 AESP,Aeon Acquisition I Corp. Class A Ordinary Shares,NASDAQ,2082526.0,True,2026-07-10
+AETR,Aetherion Technologies Inc. Common Shares,NASDAQ,1370416.0,True,2008-08-01
 AEVA,"Aeva Technologies, Inc. Common Stock",NASDAQ,1789029.0,True,2020-02-01
 AEXA,American Exceptionalism Acquisition Corp. A Class A Ordinary Shares,NYSE,2079173.0,True,2025-09-01
 AEYE,"AudioEye, Inc. Common Stock",NASDAQ,1362190.0,True,2013-04-01
@@ -467,6 +468,7 @@ ASND,Ascendis Pharma A/S Ordinary Share,NASDAQ,1612042.0,True,2015-01-01
 ASNS,"Actelis Networks, Inc. Common Stock",NASDAQ,1141284.0,True,2022-05-01
 ASO,"Academy Sports and Outdoors, Inc. Common Stock",NASDAQ,1817358.0,True,2020-10-01
 ASPC,A SPAC III Acquisition Corp. Class A Ordinary Shares,NASDAQ,1890361.0,True,2025-01-01
+ASPE,"Aspen Neuroscience, Inc. Common Stock",NASDAQ,2124080.0,True,2026-10-01
 ASPI,ASP Isotopes Inc. Common Stock,NASDAQ,1921865.0,True,2022-11-01
 ASPN,"Aspen Aerogels, Inc. Common Stock",NYSE,1145986.0,True,2014-06-01
 ASPS,Altisource Portfolio Solutions S.A. Common Stock,NASDAQ,1462418.0,True,2009-08-01
@@ -594,6 +596,7 @@ AZI,Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares,NASDAQ,1959
 AZIO,"Azio AI Holdings, Inc. Common Stock",NASDAQ,1563568.0,True,2017-06-01
 AZN,AstraZeneca PLC Ordinary Shares,NYSE,901832.0,True,2009-02-01
 AZO,"AutoZone, Inc. Common Stock",NYSE,866787.0,True,1991-04-01
+AZR,"Azora Therapeutics, Inc. Common Stock",NASDAQ,1513525.0,True,2018-07-01
 AZTA,"Azenta, Inc.",NASDAQ,933974.0,True,1995-02-01
 AZTR,Azitra Inc Common Stock,AMEX,1701478.0,True,2023-06-01
 AZZ,AZZ Inc.,NYSE,8947.0,True,1985-01-01
@@ -638,6 +641,7 @@ BBNX,"Beta Bionics, Inc. Common Stock",NASDAQ,1674632.0,True,2025-01-01
 BBOT,"BridgeBio Oncology Therapeutics, Inc. Common Stock",NASDAQ,1869105.0,True,2024-02-01
 BBSI,"Barrett Business Services, Inc. Common Stock",NASDAQ,902791.0,True,1993-06-01
 BBT,Beacon Financial Corporation Common stock,NYSE,1108134.0,True,2000-06-01
+BBTX,"Bambusa Therapeutics, Inc. Common stock",NASDAQ,2044950.0,True,2026-10-01
 BBUC,Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares,NYSE,1871130.0,True,2022-03-01
 BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,NYSE,842180.0,True,1988-12-01
 BBW,"Build-A-Bear Workshop, Inc. Common Stock",NYSE,1113809.0,True,2004-10-01
@@ -2014,6 +2018,7 @@ FBYD,"Falcon's Beyond Global, Inc. Class A Common Stock",NASDAQ,1937987.0,True,2
 FC,Franklin Covey Company Common Stock,NYSE,886206.0,True,1992-06-01
 FCAP,"First Capital, Inc. Common Stock",NASDAQ,1070296.0,True,1999-01-01
 FCBM,"First Carolina Financial Services, Inc. Common Stock",NYSE,1531193.0,True,2026-06-01
+FCDH,Forcendra Holding Limited Class A Ordinary Shares,NASDAQ,1951294.0,True,2023-09-01
 FCEL,"FuelCell Energy, Inc. Common Stock",NASDAQ,886128.0,True,1992-06-01
 FCF,First Commonwealth Financial Corporation Common Stock,NYSE,712537.0,True,1992-06-01
 FCFS,"FirstCash Holdings, Inc. Common Stock",NASDAQ,840489.0,True,1991-06-01
@@ -2054,6 +2059,7 @@ FFIC,Flushing Financial Corporation Common Stock,NASDAQ,923139.0,True,1995-11-01
 FFIN,"First Financial Bankshares, Inc. Common Stock",NASDAQ,36029.0,True,1993-11-01
 FFIV,"F5, Inc. Common Stock",NASDAQ,1048695.0,True,1999-06-01
 FFR,FF EAI Robotics Ecosystem Inc. Common Stock,NASDAQ,1460702.0,True,2026-09-01
+FFTT,Masonglory Limited Class A Ordinary Shares,NASDAQ,2020228.0,True,2025-07-01
 FFWM,First Foundation Inc. Common Stock,NYSE,1413837.0,True,2014-11-01
 FG,"F&G Annuities & Life, Inc. Common Stock",NYSE,1934850.0,True,2022-11-01
 FGBI,"First Guaranty Bancshares, Inc. Common Stock",NASDAQ,1408534.0,True,2012-08-01
@@ -2257,6 +2263,7 @@ GASS,"StealthGas, Inc. Common Stock",NASDAQ,1328919.0,True,2005-10-01
 GATX,GATX Corporation Common Stock,NYSE,40211.0,True,1985-01-01
 GAU,Galiano Gold Inc.,AMEX,1377757.0,True,2008-01-01
 GAUZ,Gauzy Ltd. Ordinary Shares,NASDAQ,1781446.0,True,2024-06-01
+GBC,"Georgia Banking Company, Inc. Common Stock",NASDAQ,1070965.0,True,2026-10-01
 GBCI,"Glacier Bancorp, Inc. Common Stock",NYSE,868671.0,True,1985-01-01
 GBDC,"Golub Capital BDC, Inc. Common Stock",NASDAQ,1476765.0,True,2010-04-01
 GBFH,GBank Financial Holdings Inc. Common Stock,NASDAQ,1791145.0,True,2024-07-01
@@ -3648,7 +3655,9 @@ MSDL,Morgan Stanley Direct Lending Fund Common Stock,NYSE,1782524.0,True,2024-01
 MSEX,Middlesex Water Company Common Stock,NASDAQ,66004.0,True,1985-01-01
 MSFT,Microsoft Corporation Common Stock,NASDAQ,789019.0,True,1986-03-01
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,NYSE,1952073.0,True,2023-04-01
+MSGK,MSG Knickerbockers Corp. Class A Common Stock,NYSE,1636519.0,True,2015-09-01
 MSGM,Motorsport Games Inc. Class A Common Stock,NASDAQ,1821175.0,True,2021-01-01
+MSGR,MSG Rangers Corp. Class A Common Stock,NYSE,2132873.0,True,2026-10-01
 MSGS,Madison Square Garden Sports Corp. Class A Common Stock (New),NYSE,1636519.0,True,2015-09-01
 MSGY,Masonglory Limited Ordinary Shares,NASDAQ,2020228.0,True,2025-07-01
 MSI,"Motorola Solutions, Inc. Common Stock",NYSE,68505.0,True,1985-01-01
@@ -3882,6 +3891,7 @@ NOG,"Northern Oil and Gas, Inc. Common Stock",NYSE,1104485.0,True,2007-04-01
 NOM,Nuveen Missouri Quality Municipal Income Fund,NYSE,899782.0,True,1993-05-01
 NOMA,NOMADAR Corp. Class A Common Stock,NASDAQ,1994214.0,True,2025-11-01
 NOMD,Nomad Foods Limited Ordinary Shares,NYSE,1651717.0,True,2015-01-01
+NORD,Nordicus Partners Corporation Common Stock,NASDAQ,1011060.0,True,1996-06-01
 NOTV,"Inotiv, Inc. Common Stock",NASDAQ,720154.0,True,1997-11-01
 NOV,NOV Inc. Common Stock,NYSE,1021860.0,True,1996-10-01
 NOVT,Novanta Inc. Common Stock,NASDAQ,1076930.0,True,1999-03-01
@@ -4508,6 +4518,7 @@ PTEN,"Patterson-UTI Energy, Inc. Common Stock",NASDAQ,889900.0,True,1993-11-01
 PTGX,"Protagonist Therapeutics, Inc. Common Stock",NASDAQ,1377121.0,True,2016-08-01
 PTHL,Pheton Holdings Ltd Class A Ordinary Shares,NASDAQ,1970544.0,True,2024-09-01
 PTHS,Pelthos Therapeutics Inc. Common Stock,AMEX,1919246.0,True,2024-02-01
+PTIV,Pineapple Financial Inc. Common Stock,AMEX,1938109.0,True,2023-11-01
 PTIX,"Protagenic Therapeutics, Inc. Common Stock",NASDAQ,1022899.0,True,2021-04-01
 PTLE,PTL LTD Class A Ordinary Shares,NASDAQ,2016337.0,True,2024-10-01
 PTLO,Portillo's Inc. Class A Common Stock,NASDAQ,1871509.0,True,2021-10-01
