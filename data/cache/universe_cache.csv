@@ -159,6 +159,7 @@ AGI,Alamos Gold Inc. Class A Common Shares,NYSE,1178819.0,True,2003-05-01
 AGIG,Abundia Global Impact Group Inc. Common stock,AMEX,1156041.0,True,2002-01-01
 AGIO,"Agios Pharmaceuticals, Inc. Common Stock",NASDAQ,1439222.0,True,2013-07-01
 AGL,"agilon health, inc. Common Stock",NYSE,1831097.0,True,2021-04-01
+AGLT,"Agility Robotics, Inc. Common Stock",NASDAQ,2074973.0,True,2026-02-01
 AGM,Federal Agricultural Mortgage Corporation Common Stock,NYSE,845877.0,True,1994-02-01
 AGMH,AGM Group Holdings Inc. Class A Ordinary Shares,NASDAQ,1705402.0,True,2018-04-01
 AGNC,AGNC Investment Corp. Common Stock,NASDAQ,1423689.0,True,2008-05-01
@@ -1085,6 +1086,7 @@ CCZ,Comcast Holdings ZONES,NYSE,1166691.0,True,2020-01-01
 CD,Chaince Digital Holdings Inc. Ordinary Shares,NASDAQ,1527762.0,True,2015-04-01
 CDE,"Coeur Mining, Inc. Common Stock",NYSE,215466.0,True,1985-01-01
 CDIO,Cardio Diagnostics Holdings Inc. Common stock,NASDAQ,1870144.0,True,2022-01-01
+CDLR,Cadeler plc Ordinary Shares,NYSE,2063345.0,True,2023-12-01
 CDLX,"Cardlytics, Inc. Common Stock",NASDAQ,1666071.0,True,2018-02-01
 CDNA,"CareDx, Inc. Common Stock",NASDAQ,1217234.0,True,2014-07-01
 CDNL,Cardinal Infrastructure Group Inc. Class A Common Stock,NASDAQ,2079999.0,True,2025-12-01
@@ -1188,6 +1190,7 @@ CIA,"Citizens, Inc. Class A Common Stock ($1.00 Par)",NYSE,24090.0,True,1985-01-
 CIEN,Ciena Corporation Common Stock,NYSE,936395.0,True,1997-02-01
 CIF,MFS Intermediate High Income Fund Common Stock,NYSE,833021.0,True,1988-07-01
 CIFR,Cipher Mining Inc. Common Stock,NASDAQ,1819989.0,True,2020-10-01
+CIG.C,Comp En De Mn Cemig ADS American Depositary Receipts,NYSE,,True,2007-06-01
 CIGI,Colliers International Group Inc. Subordinate Voting Shares,NASDAQ,913353.0,True,1995-01-01
 CIGL,Concorde International Group Ltd Class A Ordinary Shares,NASDAQ,2001794.0,True,2025-04-01
 CII,"BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock",NYSE,1278895.0,True,2004-05-01
@@ -2299,6 +2302,7 @@ GDYN,"Grid Dynamics Holdings, Inc. Class A Common Stock",NASDAQ,1743725.0,True,2
 GE,GE Aerospace Common Stock,NYSE,40545.0,True,1962-01-01
 GECC,Great Elm Capital Corp. Common Stock,NASDAQ,1675033.0,True,2016-11-01
 GEF,Greif Inc. Class A Common Stock,NYSE,43920.0,True,1996-02-01
+GEF.B,"Greif, Inc. Corporation Class B Common Stock",NYSE,,True,2003-10-01
 GEG,"Great Elm Group, Inc. Common Stock",NASDAQ,1831096.0,True,1999-06-01
 GEHC,GE HealthCare Technologies Inc. Common Stock,NASDAQ,1932393.0,True,2022-12-01
 GELS,Gelteq Limited Ordinary Shares,NASDAQ,1920092.0,True,2024-10-01
@@ -2709,6 +2713,7 @@ HXHX,Haoxin Holdings Limited Class A Ordinary Shares,NASDAQ,1936817.0,True,2025-
 HXL,Hexcel Corporation Common Stock,NYSE,717605.0,True,1985-01-01
 HY,"Hyster-Yale, Inc. Class A common stock",NYSE,1173514.0,True,2012-10-01
 HYAC,Haymaker Acquisition Corp. 4 Class A Ordinary Shares,NYSE,1970509.0,True,2023-09-01
+HYAC.WS,Haymaker Acquisition Corp V,NYSE,,True,
 HYFM,"Hydrofarm Holdings Group, Inc. Common Stock",NASDAQ,1695295.0,True,2020-12-01
 HYFT,MindWalk Holdings Corp. Common Stock,NASDAQ,1715925.0,True,2002-01-01
 HYLN,Hyliion Holdings Corp. Class A Common Stock,AMEX,1759631.0,True,2020-01-01
@@ -2836,6 +2841,7 @@ INGN,"Inogen, Inc Common Stock",NASDAQ,1294133.0,True,2014-02-01
 INGR,Ingredion Incorporated Common Stock,NYSE,1046257.0,True,1997-12-01
 INHD,Inno Holdings Inc. Common Stock,NASDAQ,1961847.0,True,2023-12-01
 INIO,INNIO N.V. Ordinary Shares,NASDAQ,2109150.0,True,2026-06-01
+INJC,Canary Staked INJ ETF,NASDAQ,2073616.0,True,2026-11-01
 INKT,"MiNK Therapeutics, Inc. Common Stock",NASDAQ,1840229.0,True,2021-10-01
 INLF,INLIF LIMITED Class A Ordinary Shares,NASDAQ,1991592.0,True,2025-01-01
 INLX,"Intellinetics, Inc. Common Stock",AMEX,1081745.0,True,2012-02-01
@@ -3204,6 +3210,7 @@ LDWY,"Lendway, Inc. Common Stock (DE)",NASDAQ,875355.0,True,1991-06-01
 LE,"Lands' End, Inc. Common Stock",NASDAQ,799288.0,True,2014-03-01
 LEA,Lear Corporation Common Stock,NYSE,842162.0,True,2009-11-01
 LECO,"Lincoln Electric Holdings, Inc. Common Shares",NASDAQ,59527.0,True,1994-04-01
+LEDR,Leader's Advantage Acquisition Corp. Class A Ordinary Shares,NASDAQ,2109823.0,True,2026-11-01
 LEDS,SemiLEDS Corporation Common Stock,NASDAQ,1333822.0,True,2010-12-01
 LEE,"Lee Enterprises, Incorporated Common Stock",NASDAQ,58361.0,True,1985-01-01
 LEG,"Leggett & Platt, Incorporated Common Stock",NYSE,58492.0,True,1985-01-01
@@ -3211,6 +3218,7 @@ LEGH,Legacy Housing Corporation Common Stock (TX),NASDAQ,1436208.0,True,2018-12-
 LEGO,Legato Merger Corp. IV Ordinary Shares,AMEX,2087450.0,True,2026-03-01
 LEGT,Legato Merger Corp. III Ordinary Shares,AMEX,2002038.0,True,2024-03-01
 LEN,Lennar Corporation Class A Common Stock,NYSE,920760.0,True,1980-03-01
+LEN.B,Lennar Corporation Class B,NYSE,,True,2003-04-01
 LENZ,"LENZ Therapeutics, Inc. Common Stock",NASDAQ,1815776.0,True,2021-06-01
 LEO,"BNY Mellon Strategic Municipals, Inc. Common Stock",NYSE,818972.0,True,1987-09-01
 LESL,"Leslie's, Inc. Common Stock",NASDAQ,1821806.0,True,2020-10-01
@@ -3545,6 +3553,7 @@ MITT,"AG Mortgage Investment Trust, Inc. Common Stock",NYSE,1514281.0,True,2011-
 MIY,"Blackrock MuniYield Michigan Quality Fund, Inc. Common Stock",NYSE,890393.0,True,1992-11-01
 MJID,Majestic Ideal Holdings Ltd Ordinary Shares,NASDAQ,1897532.0,True,2025-07-01
 MKC,"McCormick & Company, Incorporated Common Stock",NYSE,63754.0,True,1985-01-01
+MKC.V,"McCormick & Company, Incorporated Common Stock",NYSE,,True,2003-10-01
 MKDW,MKDWELL Tech Inc. Ordinary Share,NASDAQ,1991332.0,True,2023-03-01
 MKL,Markel Group Inc. Common Stock,NYSE,1096343.0,True,1986-12-01
 MKLY,McKinley Acquisition Corporation Class A Ordinary Shares,NASDAQ,2067592.0,True,2025-10-01
@@ -3601,6 +3610,7 @@ MOD,Modine Manufacturing Company Common Stock,NYSE,67347.0,True,1985-01-01
 MODD,"Modular Medical, Inc. Common Stock",NASDAQ,1074871.0,True,2022-02-01
 MODG,Topgolf Callaway Brands Corp. Common Stock,NYSE,837465.0,True,1992-02-01
 MOFG,MidWestOne Financial Gp Common Stock,NASDAQ,1412665.0,True,2008-01-01
+MOG.B,Moog Inc. Class B Common Stock,NYSE,,True,1985-01-01
 MOGO,Mogo Inc. Common Shares,NASDAQ,1602842.0,True,2017-05-01
 MOH,Molina Healthcare Inc Common Stock,NYSE,1179929.0,True,2003-07-01
 MORN,"Morningstar, Inc. Common Stock",NASDAQ,1289419.0,True,2005-05-01
@@ -3751,6 +3761,7 @@ NAMS,NewAmsterdam Pharma Company N.V. Ordinary Shares,NASDAQ,1936258.0,True,2021
 NAN,Nano Labs Ltd Class A Ordinary Shares,NASDAQ,1872302.0,True,1999-05-01
 NANO,Forge Nano Holdings Inc. Common Stock,NASDAQ,2101833.0,True,2025-04-01
 NAOV,"NanoVibronix, Inc. Common Stock",NASDAQ,1326706.0,True,2015-05-01
+NARA,"Narragansett Bancorp, Inc. Common Stock",NASDAQ,2138186.0,True,2026-11-01
 NAT,Nordic American Tankers Limited Common Stock,NYSE,1000177.0,True,1997-09-01
 NATH,"Nathan's Famous, Inc. Common Stock",NASDAQ,69733.0,True,1993-02-01
 NATL,NCR Atleos Corporation Common Stock,NYSE,1974138.0,True,2023-10-01
@@ -5656,6 +5667,7 @@ UFPT,"UFP Technologies, Inc. Common Stock",NASDAQ,914156.0,True,1993-12-01
 UGI,UGI Corporation Common Stock,NYSE,884614.0,True,1985-01-01
 UGRO,"urban-gro, Inc. Common Stock",NASDAQ,1706524.0,True,2019-11-01
 UHAL,U-Haul Holding Company Common Stock,NYSE,4457.0,True,1994-11-01
+UHAL.B,U-Haul Holding Company Series N Non-Voting Common Stock,NYSE,,True,2022-11-01
 UHS,"Universal Health Services, Inc. Common Stock",NYSE,352915.0,True,1985-01-01
 UHT,Universal Health Realty Income Trust Common Stock,NYSE,798783.0,True,1986-12-01
 UI,Ubiquiti Inc. Common Stock,NYSE,1511737.0,True,2011-10-01
