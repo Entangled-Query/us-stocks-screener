@@ -1395,6 +1395,7 @@ CRL,"Charles River Laboratories International, Inc. Common Stock",NYSE,1100682.0
 CRM,"Salesforce, Inc. Common Stock",NYSE,1108524.0,True,2004-06-01
 CRMD,CorMedix Inc. Common Stock,NASDAQ,1410098.0,True,2010-05-01
 CRML,Critical Metals Corp. Ordinary Shares,NASDAQ,1951089.0,True,2022-02-01
+CRMN,Skyline Builders Group Holding Limited Class A Ordinary Shares,NASDAQ,2031009.0,True,2025-02-01
 CRMT,America's Car-Mart Inc Common Stock,NASDAQ,799850.0,True,1987-03-01
 CRNC,Cerence Inc. Common Stock,NASDAQ,1768267.0,True,2019-09-01
 CRNT,Ceragon Networks Ltd. Ordinary Shares,NASDAQ,1119769.0,True,2000-08-01
@@ -3312,6 +3313,7 @@ LONA,"LeonaBio, Inc. Common Stock",NASDAQ,1620463.0,True,2020-09-01
 LOOP,"Loop Industries, Inc. Common Stock",NASDAQ,1504678.0,True,2017-11-01
 LOPE,"Grand Canyon Education, Inc. Common Stock",NASDAQ,1434588.0,True,2008-11-01
 LOVE,The Lovesac Company Common Stock,NASDAQ,1701758.0,True,2018-06-01
+LOVI,Live Oak Acquisition Corp. VI Class A Ordinary Shares,NASDAQ,2115191.0,True,2026-11-01
 LOW,"Lowe's Companies, Inc. Common Stock",NYSE,60667.0,True,1985-01-01
 LPA,Logistic Properties of the Americas Ordinary Shares,AMEX,1997711.0,True,2024-03-01
 LPAA,Launch One Acquisition Corp. Class A Ordinary shares,NASDAQ,2015502.0,True,2024-09-01
@@ -3468,6 +3470,7 @@ MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",NASDAQ,1157601.0,True,2007-02
 MDIA,Mediaco Holding Inc. Class A Common Stock,NASDAQ,1784254.0,True,2020-01-01
 MDLN,Medline Inc. Class A Common Stock,NASDAQ,2046386.0,True,2025-12-01
 MDLZ,"Mondelez International, Inc. Class A Common Stock",NASDAQ,1103982.0,True,2001-06-01
+MDRN,Modern Mining Technology Corp. Common Shares,AMEX,1898722.0,True,2026-11-01
 MDRR,"Medalist Diversified REIT, Inc. Common Stock",NASDAQ,1654595.0,True,2018-11-01
 MDT,Medtronic plc. Ordinary Shares,NYSE,1613103.0,True,1985-01-01
 MDU,"MDU Resources Group, Inc. Common Stock (Holding Company)",NYSE,67716.0,True,1973-02-01
@@ -3698,6 +3701,7 @@ MTN,"Vail Resorts, Inc. Common Stock",NYSE,812011.0,True,1997-02-01
 MTNB,"Matinas Biopharma Holdings, Inc. Common Stock",AMEX,1582554.0,True,2014-07-01
 MTNE,CH4 Natural Solutions Corporation Class A Ordinary Shares,NYSE,2044817.0,True,2026-06-01
 MTR,Mesa Royalty Trust Common Stock,NYSE,313364.0,True,1985-01-01
+MTRI,"Mentari Therapeutics, Inc. Common Stock",NASDAQ,1728328.0,True,2014-05-01
 MTRN,Materion Corporation,NYSE,1104657.0,True,1985-01-01
 MTRX,Matrix Service Company Common Stock,NASDAQ,866273.0,True,1990-09-01
 MTSI,"MACOM Technology Solutions Holdings, Inc. Common Stock",NASDAQ,1493594.0,True,2012-03-01
@@ -4147,6 +4151,7 @@ OPCH,"Option Care Health, Inc. Common Stock",NASDAQ,1014739.0,True,1996-08-01
 OPEN,Opendoor Technologies Inc Common Stock,NASDAQ,1801169.0,True,2020-06-01
 OPFI,OppFi Inc. Class A Common Stock,NYSE,1818502.0,True,2020-11-01
 OPHC,"OptimumBank Holdings, Inc. Common Stock",AMEX,1288855.0,True,2003-06-01
+OPHI,CollPlant Biotechnologies Ltd Ordinary Shares,NASDAQ,1631487.0,True,2018-01-01
 OPI,Office Properties Income Trust Common Shares of Beneficial Interest,NASDAQ,1456772.0,True,2009-06-01
 OPK,"OPKO Health, Inc. Common Stock",NASDAQ,944809.0,True,1995-11-01
 OPLN,"OPENLANE, Inc. Common Stock",NYSE,1395942.0,True,2009-12-01
@@ -4604,6 +4609,7 @@ QUAD,"Quad Graphics, Inc Class A Common Stock",NYSE,1481792.0,True,2010-07-01
 QUBT,Quantum Computing Inc. Common Stock,NASDAQ,1758009.0,True,2007-02-01
 QUCY,Quantum Cyber N.V. Ordinary Shares,NASDAQ,1874252.0,True,2021-11-01
 QUIK,QuickLogic Corporation Common Stock,NASDAQ,882508.0,True,1999-10-01
+QUIT,"Achieve Life Sciences, Inc. Common Shares",NASDAQ,949858.0,True,1995-10-01
 QUMS,Quantumsphere Acquisition Corp. Ordinary Shares,NASDAQ,2070900.0,True,2025-09-01
 QURE,uniQure N.V. Ordinary Shares,NASDAQ,1590560.0,True,2014-02-01
 QVCG,"QVC Group, Inc. Common Stock",NASDAQ,1254699.0,True,2026-08-01
@@ -4928,6 +4934,7 @@ SCNX,"Scienture Holdings, Inc. Common Stock",NASDAQ,1382574.0,True,2014-02-01
 SCOR,"comScore, Inc. Common Stock",NASDAQ,1158172.0,True,2007-06-01
 SCPH,scPharmaceuticals Inc. Common Stock,NASDAQ,1604950.0,True,2017-11-01
 SCPQ,Social Commerce Partners Corporation Class A Ordinary Shares,NASDAQ,2083143.0,True,2026-02-01
+SCQC,SPACCircle Acquisition Corp. Class A Ordinary Shares,NASDAQ,2131303.0,True,2026-11-01
 SCS,Steelcase Inc. Common Stock,NYSE,1050825.0,True,1998-02-01
 SCSC,"ScanSource, Inc. Common Stock",NASDAQ,918965.0,True,1994-03-01
 SCTX,Scribe Therapeutics Inc. Common Stock,NASDAQ,1853921.0,True,2026-07-01
@@ -5882,6 +5889,7 @@ VVOS,"Vivos Therapeutics, Inc. Common Stock",NASDAQ,1716166.0,True,2020-12-01
 VVPR,VivoPower International PLC Ordinary Shares,NASDAQ,1681348.0,True,2015-05-01
 VVR,Invesco Senior Income Trust Common Stock (DE),NYSE,1059386.0,True,1998-06-01
 VVV,Valvoline Inc. Common Stock,NYSE,1674910.0,True,2016-09-01
+VVVV,vVARDIS Holding AG Class A Ordinary Shares,NYSE,1907709.0,True,2026-11-01
 VVX,"V2X, Inc. Common Stock",NYSE,1601548.0,True,2014-09-01
 VWAV,"VisionWave Holdings, Inc. Common Stock",NASDAQ,2038439.0,True,2025-07-01
 VYGR,"Voyager Therapeutics, Inc. Common Stock",NASDAQ,1640266.0,True,2015-11-01
@@ -6023,6 +6031,7 @@ WULF,TeraWulf Inc. Common Stock,NASDAQ,1083301.0,True,1994-04-01
 WVE,Wave Life Sciences Ltd. Ordinary Shares,NASDAQ,1631574.0,True,2015-11-01
 WVVI,"Willamette Valley Vineyards, Inc. Common Stock",NASDAQ,838875.0,True,1994-09-01
 WW,"WW International, Inc.  Common Stock",NASDAQ,105319.0,True,2025-06-01
+WWB,Windward Bio Group AG Common Shares,NASDAQ,2145089.0,True,2026-11-01
 WWD,"Woodward, Inc. Common Stock",NASDAQ,108312.0,True,1994-04-01
 WWR,"Westwater Resources, Inc. Common Stock",AMEX,839470.0,True,1998-01-01
 WWW,"Wolverine World Wide, Inc. Common Stock",NYSE,110471.0,True,1985-01-01
@@ -6047,6 +6056,7 @@ XFLH,XFLH Capital Corporation Ordinary Shares,NYSE,2088103.0,True,2026-03-01
 XFLT,XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest,NYSE,1703079.0,True,2017-10-01
 XFOR,"X4 Pharmaceuticals, Inc. Common Stock",NASDAQ,1501697.0,True,2017-11-01
 XGN,Exagen Inc. Common Stock,NASDAQ,1274737.0,True,2019-09-01
+XGPU,"Reliance Global Group, Inc. Common Stock",NASDAQ,1812727.0,True,2026-11-01
 XHLD,"TEN Holdings, Inc. Common Stock",NASDAQ,2030954.0,True,2025-02-01
 XHR,"Xenia Hotels & Resorts, Inc. Common Stock",NYSE,1616000.0,True,2015-02-01
 XIII,Churchill Capital Corp XIII Class A Ordinary Shares,NASDAQ,2114229.0,True,2026-09-01
@@ -6163,4 +6173,5 @@ ZVRA,"Zevra Therapeutics, Inc. Common Stock",NASDAQ,1434647.0,True,2015-04-01
 ZWS,Zurn Elkay Water Solutions Corporation Common Stock,NYSE,1439288.0,True,2012-03-01
 ZYBT,Zhengye Biotechnology Holding Limited Ordinary Shares,NASDAQ,1975641.0,True,2025-01-01
 ZYME,Zymeworks Inc. Common Stock,NASDAQ,1937653.0,True,2017-04-01
+ZYN,PTL LTD Class A Ordinary Shares,NASDAQ,2016337.0,True,2024-10-01
 ZYXI,"Zynex, Inc. Common Stock",NASDAQ,846475.0,True,2004-02-01
